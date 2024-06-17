@@ -1,0 +1,7 @@
+---
+  title: "STA302 Final Project"
+output: pdf_document
+fontsize: 12pt
+---
+setwd("/Users/yuqingliu/Desktop/Final project sta302")
+raw_data <- read.csv("Life Expectancy Data.csv")
